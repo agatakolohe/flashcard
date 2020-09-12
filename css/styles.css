@@ -1,0 +1,13 @@
+#java-showing {
+  display: none;
+}
+#op-showing {
+  display: none;
+}
+.clickable {
+  color: turquoise;
+}
+
+body {
+  background: whitesmoke;
+}
