@@ -1,13 +1,10 @@
-#java-showing {
+#showing, #o-showing, #v-showing, #vc-showing, #f-showing, #m-showing, #a-showing, #p-showing, #r-showing, #cm-showing, #s-showing, #b-showing, #ud-showing, #nan-showing, #n-showing, #al-showing, #c-showing, #jq-showing, #at-showing, #fu-showing {
   display: none;
 }
-#op-showing {
-  display: none;
-}
-.clickable {
-  color: turquoise;
+.clickable, .click, .v-click, .vc-click, .m-click, .f-click, .a-click, .p-click, .r-click, .cm-click, .s-click, .b-click, .ud-click, .nan-click, .n-click, .al-click, .c-click, .jq-click, .at-click, .fu-click {
+  color: darkturquoise;
 }
 
 body {
-  background: whitesmoke;
+  background: darkcyan;
 }
