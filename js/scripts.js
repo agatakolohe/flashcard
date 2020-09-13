@@ -3,6 +3,7 @@ $(document).ready(function() {
     $("#showing").toggle();
     $("#hidden").toggle();
   });
+  
   $(".click").click(function() {
     $("#o-showing").toggle();
     $("#o-hidden").toggle();
