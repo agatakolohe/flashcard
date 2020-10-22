@@ -62,7 +62,8 @@
 .jq-click:hover,
 .at-click:hover,
 .fu-click:hover {
-  background-color: darkcyan;
+  background-color: darkturquoise;
+  color: white;
 }
 body {
   background: darkcyan;
