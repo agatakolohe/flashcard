@@ -1,11 +1,75 @@
-#showing, #o-showing, #v-showing, #vc-showing, #f-showing, #m-showing, #a-showing, #p-showing, #r-showing, #cm-showing, #s-showing, #b-showing, #ud-showing, #nan-showing, #n-showing, #al-showing, #c-showing, #jq-showing, #at-showing, #fu-showing {
+#showing,
+#o-showing,
+#v-showing,
+#vc-showing,
+#f-showing,
+#m-showing,
+#a-showing,
+#p-showing,
+#r-showing,
+#cm-showing,
+#s-showing,
+#b-showing,
+#ud-showing,
+#nan-showing,
+#n-showing,
+#al-showing,
+#c-showing,
+#jq-showing,
+#at-showing,
+#fu-showing {
   display: none;
 }
-.clickable, .click, .v-click, .vc-click, .m-click, .f-click, .a-click, .p-click, .r-click, .cm-click, .s-click, .b-click, .ud-click, .nan-click, .n-click, .al-click, .c-click, .jq-click, .at-click, .fu-click {
+.clickable,
+.click,
+.v-click,
+.vc-click,
+.m-click,
+.f-click,
+.a-click,
+.p-click,
+.r-click,
+.cm-click,
+.s-click,
+.b-click,
+.ud-click,
+.nan-click,
+.n-click,
+.al-click,
+.c-click,
+.jq-click,
+.at-click,
+.fu-click {
   color: darkturquoise;
 }
-
+.clickable:hover,
+.click:hover,
+.v-click:hover,
+.vc-click:hover,
+.m-click:hover,
+.f-click:hover,
+.a-click:hover,
+.p-click:hover,
+.r-click:hover,
+.cm-click:hover,
+.s-click:hover,
+.b-click:hover,
+.ud-click:hover,
+.nan-click:hover,
+.n-click:hover,
+.al-click:hover,
+.c-click:hover,
+.jq-click:hover,
+.at-click:hover,
+.fu-click:hover {
+  background-color: darkcyan;
+}
 body {
   background: darkcyan;
 }
-
+.jumbotron {
+  background-color: darkcyan;
+  border: solid white;
+  text-align: center;
+  color: white;
+}
